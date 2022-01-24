@@ -1,4 +1,6 @@
-/* ------Google font open sans ------- */
+/* --------------------------------------
+----------Google font open sans ------- 
+---------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@700&family=Poppins:wght@500;700&display=swap');
 
 body{
@@ -6,7 +8,9 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
-/*----------------------- custom css styles ----------------------------- */
+/*----------------------------------------
+---------- custom/plain/venila/Raw css styles -------------
+--------------------------------------- */
 .nav-item-background-color:hover{
     background-color: rgba(15, 117, 15, 0.829);
     border-radius: 10px;
@@ -18,7 +22,6 @@ body{
     background-color: 
     #F496D1;
     border-radius: 25px;
-    /* opacity: 0.1; */
 }
 .padding-h-button{
     padding-left: 35px;
@@ -29,5 +32,7 @@ body{
 }
 .card-border{
     border-radius:25px;
-
+}
+.footer-section{
+    padding-top: 90px;
 }
