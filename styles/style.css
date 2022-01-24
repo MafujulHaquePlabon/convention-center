@@ -33,6 +33,9 @@ body{
 .card-border{
     border-radius:25px;
 }
+.Clients{
+    margin: 10px;
+}
 .footer-section{
     padding-top: 90px;
 }
