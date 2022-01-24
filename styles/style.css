@@ -14,3 +14,20 @@ body{
 .paragraph-text-color{
     color: lightgrey;
 }
+.button-background{
+    background-color: 
+    #F496D1;
+    border-radius: 25px;
+    /* opacity: 0.1; */
+}
+.padding-h-button{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.third-buttom-card{
+    border-radius: 25px;
+}
+.card-border{
+    border-radius:25px;
+
+}
